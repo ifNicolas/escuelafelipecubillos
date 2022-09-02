@@ -44,6 +44,7 @@ $routes->get('proyectos', 'principal::proyectos');
 $routes->get('contacto', 'principal::contacto');
 $routes->get('descarga', 'principal::descarga');
 $routes->get('login', 'principal::login');
+$routes->get('formulario', 'principal::formulario');
 
 //private
 
