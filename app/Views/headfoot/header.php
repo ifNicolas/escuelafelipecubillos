@@ -22,7 +22,7 @@
   <link href="<?php echo base_url('public/assets/vendor/boxicons/css/boxicons.min.css')?>" rel="stylesheet">
   <link href="<?php echo base_url('public/assets/vendor/remixicon/remixicon.css')?>" rel="stylesheet">
   <link href="<?php echo base_url('public/assets/vendor/swiper/swiper-bundle.min.css')?>" rel="stylesheet">
-  <script src="https://kit.fontawesome.com/b27e2a5a9b.js" crossorigin="anonymous"></script>
+  <!-- <script src="https://kit.fontawesome.com/b27e2a5a9b.js" crossorigin="anonymous"></script> -->
 
 
   <!-- llamados de scripts -->
@@ -32,12 +32,12 @@
 
   <!-- scripts inicio -->
   <!-- custom css -->
-  <link rel="stylesheet" href="<?php echo base_url('public/assets/css/css-custom/custom.css')?>">
+  <!-- <link rel="stylesheet" href="<?php echo base_url('public/assets/css/css-custom/custom.css')?>"> -->
   <!-- css google font -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
+<!-- <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Frijole&family=Pacifico&family=Potta+One&family=Bungee+Shade&display=swap" rel="stylesheet">
- 
+  -->
     <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
