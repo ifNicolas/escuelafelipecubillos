@@ -50,14 +50,14 @@
       <div class="container-fluid" data-aos="fade-up">
         <div class="row">
           <!-- llamado a api de facebook -->
-          <!-- <div class="col-lg-4 d-flex align-items-stretch content-fluid">
+          <div class="col-lg-4 d-flex align-items-stretch content-fluid">
             <div class="content">
               <h3 class="tituloMarcado" style="text-align: center !important;">¿Por que nuestra escuela?</h3>
               <div class="content-fluid">
                 <p class="container">
                   <div class="fb-page " data-href="https://www.facebook.com/escuelafelipecubillossigallbrillaelsol" data-tabs="timeline" data-width="768px" style="margin-left: 1em;margin-right: 1em; " data-height="1250px" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/escuelafelipecubillossigallbrillaelsol" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/escuelafelipecubillossigallbrillaelsol">Escuela Felipe Cubillos Sigall Brilla el Sol</a></blockquote></div>  
                 </p> 
-              </div> -->
+              </div>
               <!-- boton que te envia a la pagina de facebook -->
               <div class="text-center">
                 <a href="https://www.facebook.com/escuelafelipecubillossigallbrillaelsol" class="more-btn tituloParrafo"> Ir a Facebook <i class="bx bx-chevron-right"></i></a>
