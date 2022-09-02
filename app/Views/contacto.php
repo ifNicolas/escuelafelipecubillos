@@ -57,10 +57,7 @@
               <div class="form-group mt-3">
                 <textarea class="form-control" name="message" rows="5" placeholder="Su Mensaje" required></textarea>
               </div>
-              <!-- seccion para trabajar con la subida y bajada de archivos  -->
-              <div class="form-group mt-3">
-                <input class="btn btn-success" type="file" name="archivo">
-              </div>
+
               <!-- boton de envio -->
               <div class="text-center">
                 <button type="submit" name="enviar" >Enviar Mensaje</button>

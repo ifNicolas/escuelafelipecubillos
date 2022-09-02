@@ -1,5 +1,5 @@
 <?php
-$destino ="nicolas.arellano@cftsa.cl";
+$destino ="nicolas.arellano@escuelafelipecubillos.cl";
 
 $name  =  $_POST ['name'];
 $email =  $_POST ['email'];
