@@ -7,7 +7,7 @@ class Home extends BaseController
     public function index()
     {
         return view ('headfoot/header');
-        return view('inicio');
+        $this->load->view('inicio');
         return view ('headfoot/footer');
     }
 
