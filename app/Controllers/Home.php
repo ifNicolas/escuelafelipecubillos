@@ -5,10 +5,11 @@ namespace App\Controllers;
 class Home extends BaseController
 {
     public function index()
-    {
-        echo view ('headfoot/header');
-        echo view ('inicio');
-        echo view ('headfoot/footer');
+    {   
+        $vista = array('headfoot/header','inicio','headfoot/footer');
+
+        $this->load->view ($vista);
+
     }
 
 }
