@@ -50,7 +50,7 @@ class principal extends BaseController
 			echo view('admin/headfoot/footer');
 		}else
 		{
-			redirect(base_url()."principal/login","location");
+			redirect(base_url()."login","location");
 		}
 		
 	}
