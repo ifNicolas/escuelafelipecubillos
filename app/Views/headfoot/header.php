@@ -54,7 +54,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
       <h1 class="logo me-auto container-fluid"> 
-      <a href="<?php echo base_url()?>"> <img class="img-fluid" src="<?php echo base_url()?>public/assets/img/iconos/logoEscuela.png" alt=""> Felipe Cubillos</a></h1>
+      <a href="<?php echo base_url()?>"> <img class="img-fluid" src="<?php echo base_url('public/assets/img/iconos/logoEscuela.png')?>" alt=""> Felipe Cubillos</a></h1>
       <nav id="navbar" class="navbar order-last order-lg-0" style="opacity: 0.9;">
         <ul>
           
