@@ -16,7 +16,7 @@
 <div id="preloader"> </div>
 <!-- botón que nos redirige hacia el principio de la pagina -->
 <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-</footer>
+</footer> 
 <!-- End Footer -->
 <!-- llamados -->
 <!-- Vendor JS Files -->

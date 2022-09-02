@@ -38,6 +38,8 @@ $routes->set404Override();
 $routes->get('/', 'Home::index');
 //$routes->get('inicio', 'principal::inicio');
 $routes->get('profesores', 'principal::profesores');
+$routes->get('proyectos', 'principal::proyectos');
+$routes->get('contacto', 'principal::contacto');
 /*
  * --------------------------------------------------------------------
  * Additional Routing

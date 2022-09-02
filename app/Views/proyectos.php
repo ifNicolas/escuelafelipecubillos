@@ -17,7 +17,7 @@
           <div class="col-md-6 d-flex align-items-stretch">
             <div class="card">
               <div class="card-img">
-                <img src="<?php echo base_url()?>assets/img/Proyectos/course-details-tab-1.png" alt="...">
+                <img src="<?php echo base_url('public/assets/img/Proyectos/course-details-tab-1.png')?>" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="">Mejoras Estructurales</a></h5>
@@ -29,7 +29,7 @@
           <div class="col-md-6 d-flex align-items-stretch">
             <div class="card">
               <div class="card-img">
-                <img src="<?php echo base_url()?>assets/img/Proyectos/course-details-tab-5.png" alt="...">
+                <img src="<?php echo base_url('public/assets/img/Proyectos/course-details-tab-5.png')?>" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="">Mejoras Estructurales</a></h5>
@@ -49,7 +49,7 @@
           <div class="col-md-6 d-flex align-items-stretch">
             <div class="card">
               <div class="card-img">
-                <img src="<?php echo base_url()?>assets/img/Proyectos/course-details-tab-1.png" alt="...">
+                <img src="<?php echo base_url('public/assets/img/Proyectos/course-details-tab-1.png')?>" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="">Mejoras Estructurales</a></h5>
@@ -61,7 +61,7 @@
           <div class="col-md-6 d-flex align-items-stretch">
             <div class="card">
               <div class="card-img">
-                <img src="<?php echo base_url()?>assets/img/Proyectos/course-details-tab-5.png" alt="...">
+                <img src="<?php echo base_url('public/assets/img/Proyectos/course-details-tab-5.png')?>" alt="...">
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="">Mejoras Estructurales</a></h5>
