@@ -8,7 +8,7 @@ class Home extends BaseController
     {
         return view ('headfoot/header');
         return view('inicio');
-        return view ('headfoot/header');
+        return view ('headfoot/footer');
     }
 
 }
