@@ -62,11 +62,11 @@
           
           <li class="dropdown"><a href="#"><span><i class="fa-solid fa-cloud-arrow-down nav_url">&nbsp;</i><p class="fuenteNav"> Otros</p></span> <i class=" order-lg-0"></i></a>
             <ul class="container-fluid">
-              <li class="container"><a href="<?php echo base_url()?>principal/descarga"><strong> <i class="fa-solid fa-file-circle-plus">&nbsp;</i>DESCARGA</strong></a></li>
+              <li class="container"><a href="<?php echo base_url('descarga')?>"><strong> <i class="fa-solid fa-file-circle-plus">&nbsp;</i>DESCARGA</strong></a></li>
               <br>
               <br>
 
-              <li class="container"><a href="<?php echo base_url()?>principal/login"><strong> <i class="fa-solid fa-house">&nbsp;</i>Iniciar Sesion</strong></a></li>
+              <li class="container"><a href="<?php echo base_url('login')?>"><strong> <i class="fa-solid fa-house">&nbsp;</i>Iniciar Sesion</strong></a></li>
               <br>
             </ul>
           </li>

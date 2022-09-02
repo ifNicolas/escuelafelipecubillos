@@ -40,6 +40,11 @@ $routes->get('/', 'Home::index');
 $routes->get('profesores', 'principal::profesores');
 $routes->get('proyectos', 'principal::proyectos');
 $routes->get('contacto', 'principal::contacto');
+$routes->get('login', 'principal::login');
+$routes->get('descarga', 'principal::descarga');
+$routes->get('inicioadmin', 'principal::inicioadmin');
+$routes->get('carga', 'principal::carga');
+
 /*
  * --------------------------------------------------------------------
  * Additional Routing
