@@ -10,29 +10,29 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/iconos/logoEscuela.png" rel="icon">
-  <link href="assets/img/iconos/logoEscuela.png" rel="apple-touch-icon">  
+  <link href="/assets/img/iconos/logoEscuela.png" rel="icon">
+  <link href="/assets/img/iconos/logoEscuela.png" rel="apple-touch-icon">  
 
 
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
   <script src="https://kit.fontawesome.com/b27e2a5a9b.js" crossorigin="anonymous"></script>
 
 
   <!-- llamados de scripts -->
-  <script href="assets/vendor/fontawesome/js/all.js"></script>
+  <script href="/assets/vendor/fontawesome/js/all.js"></script>
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="/assets/css/style.css" rel="stylesheet">
 
   <!-- scripts inicio -->
   <!-- custom css -->
-  <link rel="stylesheet" href="assets/css/css-custom/custom.css">
+  <link rel="stylesheet" href="/assets/css/css-custom/custom.css">
   <!-- css google font -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -42,8 +42,8 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
     <!-- custom js -->
-    <script src="assets/js/js-custom/custom.js"></script>
-    <script src="assets/js/js-custom/jquery-3.6.0.js"></script>
+    <script src="/assets/js/js-custom/custom.js"></script>
+    <script src="/assets/js/js-custom/jquery-3.6.0.js"></script>
     <!-- .custom js -->
     
 </head>
@@ -54,7 +54,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
       <h1 class="logo me-auto container-fluid"> 
-      <a href="principal/index"> <img class="img-fluid" src="assets/img/iconos/logoEscuela.png" alt=""> Felipe Cubillos</a></h1>
+      <a href="principal/index"> <img class="img-fluid" src="/assets/img/iconos/logoEscuela.png" alt=""> Felipe Cubillos</a></h1>
       <nav id="navbar" class="navbar order-last order-lg-0" style="opacity: 0.9;">
         <ul>
           
