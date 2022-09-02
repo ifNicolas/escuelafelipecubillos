@@ -95,7 +95,7 @@ class principal extends BaseController
 		 if((isset($_SESSION['correo'])))
 		 {
 
-			redirect(base_url()."principal/inicioadmin","location");
+			redirect(base_url()."inicioadmin","location");
 
 			echo view('admin/headfoot/header');
 			echo view('admin/inicioadmin');
@@ -109,7 +109,7 @@ class principal extends BaseController
 			}
 			else
 			{
-				redirect(base_url()."principal/login","location");
+				redirect(base_url()."login","location");
 			}
 		 }
 
