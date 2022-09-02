@@ -1,9 +1,11 @@
 <?php
 
 namespace App\Controllers;
+use App\Models\Site_model;
 
 class principal extends BaseController
 {
+	
 
     //controladores basicos
 
