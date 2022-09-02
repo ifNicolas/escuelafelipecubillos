@@ -37,8 +37,8 @@
 <!-- Template Main JS File -->
 <script src="<?php echo base_url('assets/js/main.js')?>"></script>
 <!-- custom js -->
-<script src="<?php echo base_url('assets/js/js-custom/custom.js')?>"></script>
-<script src="<?php echo base_url('assets/js/js-custom/jquery-3.6.0.js')?>"></script>
+<!-- <script src="<?php echo base_url('assets/js/js-custom/custom.js')?>"></script>
+<script src="<?php echo base_url('assets/js/js-custom/jquery-3.6.0.js')?>"></script> -->
 <!-- .custom js -->
 </body>
 
