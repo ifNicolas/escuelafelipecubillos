@@ -6,10 +6,10 @@ class Home extends BaseController
 {
     public function index()
     {   
-        $vista = array('headfoot/header','inicio','headfoot/footer');
 
-        $this->load->view ($vista);
+        echo view ('headfoot/header');
 
+        echo view ('headfoot/footer');
     }
 
 }
