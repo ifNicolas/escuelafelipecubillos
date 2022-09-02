@@ -59,7 +59,7 @@ class principal extends BaseController
 	public function endsession()
 	{
 		session_destroy();
-		redirect(base_url()."principal/index","location");
+		redirect(base_url()."/","location");
 	}
 	//controlador login
 	public function login()
