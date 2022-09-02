@@ -17,7 +17,7 @@
   <!-- Vendor CSS Files -->
   <link href="<?php echo base_url('public/assets/vendor/animate.css/animate.min.css')?>" rel="stylesheet">
   <link href="<?php echo base_url('public/assets/vendor/aos/aos.css')?>" rel="stylesheet">
-  <link href="<?php echo base_url('public/assets/vendor/bootstrap/css/bootstrap.min.')?>css" rel="stylesheet">
+  <link href="<?php echo base_url('public/assets/vendor/bootstrap/css/bootstrap.min.css')?>" rel="stylesheet">
   <link href="<?php echo base_url('public/assets/vendor/bootstrap-icons/bootstrap-icons.css')?>" rel="stylesheet">
   <link href="<?php echo base_url('public/assets/vendor/boxicons/css/boxicons.min.css')?>" rel="stylesheet">
   <link href="<?php echo base_url('public/assets/vendor/remixicon/remixicon.css')?>" rel="stylesheet">
@@ -43,7 +43,7 @@
 
     <!-- custom js -->
     <script src="<?php echo base_url('public/assets/js/js-custom/custom.js')?>"></script>
-    <script src="<?php echo base_url('public/assets/js/js-custom/custom.js')?>x"></script>
+    <script src="<?php echo base_url('public/assets/js/js-custom/custom.js')?>"></script>
     <!-- .custom js -->
     
 </head>
