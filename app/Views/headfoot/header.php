@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="<?php echo base_url()?>assets/img/iconos/logoEscuela.png" rel="icon">
-  <link href="<?php echo base_url()?>assets/img/iconos/logoEscuela.png" rel="apple-touch-icon">  
+  <link href="<?php echo base_url('assets/img/iconos/logoEscuela.png')?>" rel="icon">
+  <link href="<?php echo base_url('assets/img/iconos/logoEscuela.png')?>" rel="apple-touch-icon">  
 
 
   <!-- Vendor CSS Files -->
