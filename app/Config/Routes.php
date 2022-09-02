@@ -37,11 +37,16 @@ $routes->set404Override();
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 //$routes->get('inicio', 'principal::inicio');
+
+//public
 $routes->get('profesores', 'principal::profesores');
 $routes->get('proyectos', 'principal::proyectos');
 $routes->get('contacto', 'principal::contacto');
-$routes->get('login', 'principal::login');
 $routes->get('descarga', 'principal::descarga');
+$routes->get('login', 'principal::login');
+
+//private
+
 $routes->get('inicioadmin', 'principal::inicioadmin');
 $routes->get('carga', 'principal::carga');
 
