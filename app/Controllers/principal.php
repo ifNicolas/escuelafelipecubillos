@@ -4,7 +4,7 @@ namespace App\Controllers;
 
 class principal extends BaseController
 {
-    public function index()
+    public function inicio()
     {
         return view('inicio');
     }
