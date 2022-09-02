@@ -16,7 +16,7 @@
           
           <!-- imagen integrada al lado derecho de vision y mision -->
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="<?php echo base_url('assets/img/Inicio/EscuelaBanner.jpg')?>" class="img-fluid img_custom" alt="">
+            <img src="<?php echo base_url('public/assets/img/Inicio/EscuelaBanner.jpg')?>" class="img-fluid img_custom" alt="">
           </div>
 
           <!-- contenedor de vision y mision -->
